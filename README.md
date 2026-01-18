@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I'm currently working on a React.js project and improving my frontend & backend skills.<br>👬 I'm looking to collaborate on exciting web development projects.<br>🤝 I'm looking for help with advanced backend development, database management, and optimizing website performance.<br>🍃 I'm currently learning advanced React.js, API integration, and database structuring.<br>📜 Ask me about HTML, CSS, JavaScript, and freelancing as a beginner.<br>🈺 Fun fact: I started as a Physics student but found my passion in coding!
+🔭  I’m currently working on building scalable React.js projects and improving my understanding of backend integration.<br>👬  I’m looking to collaborate on hackathons and team-based coding challenges to learn from others.<br>🤝  I’m looking for help with advanced Database structuring and optimizing API performance and best practices for System Design and scalable backend architecture.<br>🍃  I’m currently learning Data Structures and Algorithms to sharpen my problem-solving logic.<br>📜  Ask me about how my background in Physics helps me approach complex coding problems.<br>🈺  Fun fact: I can explain Quantum Mechanics, but centering a div still scares me sometimes.
+
+
 
 
 ## 🌐 Socials:
