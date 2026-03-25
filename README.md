@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.postimg.cc/520Qwb1H/cropped-circle-image.png" alt="Logo" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; width: 150px;" />
+  <img src="https://i.postimg.cc/520Qwb1H/cropped-circle-image.png" alt="Logo" width="150" />
   
   <h1>Hi there, I'm Dimpal Baishya 👋</h1>
 
@@ -22,6 +22,7 @@
 
 ## 🚀 Quick Intro
 
+- 🌐 **Portfolio:** Check out my complete work and experience at **[dimpalbaishya.vercel.app](https://dimpalbaishya.vercel.app)**.
 - 🔭 **Focus:** Architecting scalable full-stack applications using **React.js** and **Django**.
 - 🌱 **Learning:** Mastering **Data Structures and Algorithms** for optimized problem-solving.
 - 💡 **Interests:** System Design, API Performance Optimization, and Advanced Database Structuring.
@@ -103,6 +104,7 @@
 <div align="center">
   <p>Whether you want to discuss system design, collaborate on a project, or just talk physics—feel free to reach out!</p>
   
+  <a href="https://dimpalbaishya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-38B2AC?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:baishyadimpal31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/dimpal-baishya-a008a1249"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/_Dimpal_Baishya"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X/Twitter" /></a>
