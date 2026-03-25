@@ -1,28 +1,35 @@
 <div align="center">
-    <img src="https://i.postimg.cc/7hcTfzz3/vite.jpg" width="150"> <br/>
-    <h1>Hi there, I'm Dimpal Baishya 👋</h1>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=CornHaki&color=38B2AC&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/CornHaki)
+  <img src="https://i.postimg.cc/7hcTfzz3/vite.jpg" width="150" alt="Logo" />
+  
+  <h1>Hi there, I'm Dimpal Baishya 👋</h1>
 
-**Full-Stack Developer | Physics Enthusiast | Problem Solver**
+  <a href="https://github.com/CornHaki">
+    <img src="https://komarev.com/ghpvc/?username=CornHaki&color=38B2AC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  </a>
 
-I am a software engineer with a strong foundation in Physics, giving me a deeply analytical approach to solving complex coding challenges. I specialize in building highly scalable web applications, architecting robust backends, and crafting intuitive, seamless user interfaces.
+  <br><br>
 
-> *Fun fact: I can explain Quantum Mechanics, but centering a `div` still scares me sometimes.* ⚛️
+  **Full-Stack Developer | Physics Enthusiast | Problem Solver**
+
+  I am a software engineer with a strong foundation in Physics, giving me a deeply analytical approach to solving complex coding challenges. I specialize in building highly scalable web applications, architecting robust backends, and crafting intuitive, seamless user interfaces.
+
+  > *Fun fact: I can explain Quantum Mechanics, but centering a `div` still scares me sometimes.* ⚛️
 
 </div>
 
-<br>
-
-## 🚀 About Me
-- 🔭 **Focus:** Building scalable projects using **React.js**, **Django**, and exploring advanced backend architecture.
-- 🌱 **Learning:** Sharpening problem-solving logic through advanced **Data Structures and Algorithms**.
-- 💡 **Interests:** System Design, API performance optimization, and advanced database structuring.
-- 🤝 **Collaboration:** Always open to hackathons, team-based challenges, and open-source contributions.
-
 ---
 
-## 💻 Tech Stack
+## 🚀 Quick Intro
+
+- 🔭 **Focus:** Architecting scalable full-stack applications using **React.js** and **Django**.
+- 🌱 **Learning:** Mastering **Data Structures and Algorithms** for optimized problem-solving.
+- 💡 **Interests:** System Design, API Performance Optimization, and Advanced Database Structuring.
+- 🤝 **Collaboration:** Actively seeking team-based challenges, hackathons, and open-source contributions.
+
+<br>
+
+## 💻 Tech Stack & Tools
 
 <div align="center">
 
@@ -34,15 +41,21 @@ I am a software engineer with a strong foundation in Physics, giving me a deeply
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+<br>
+
 **Frontend**<br>
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<br>
 
 **Backend & Databases**<br>
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+<br>
 
 **Tools**<br>
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -51,19 +64,15 @@ I am a software engineer with a strong foundation in Physics, giving me a deeply
 
 </div>
 
-<br>
-
 ---
 
 ## 📂 Featured Projects
 
-Here are a few select projects that showcase my ability to build full-stack solutions and engaging interfaces:
-
-* 🚛 **[Raimona Cargo](https://github.com/CornHaki/transport-frontend)** A modern, scalable frontend interface designed for logistics and transport management, focusing on seamless user experience and optimized state management.
+* 🚛 **[Raimona Cargo](https://github.com/CornHaki/transport-frontend)** A modern, scalable frontend interface designed for logistics and transport management. Prioritizes seamless user experience, responsive design, and optimized state management.
   
 * 🧠 **[NeuroHack](https://github.com/CornHaki/NeuroHack)** An innovative hackathon project demonstrating rapid problem-solving, clean code architecture, and the integration of modern web technologies to tackle complex, real-world challenges.
 
-* 🛠️ **[Mono Motor Works](https://github.com/CornHaki/Mono-Motor-Works)** A comprehensive web application tailored for automotive services, built to streamline business operations and enhance digital presence through a clean, responsive UI.
+* 🛠️ **[Mono Motor Works](https://github.com/CornHaki/Mono-Motor-Works)** A comprehensive web application tailored for automotive services. Built to streamline business operations and enhance digital presence through a clean, intuitive UI.
 
 <br>
 
