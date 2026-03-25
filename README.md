@@ -81,15 +81,17 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CornHaki&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38B2AC&icon_color=38B2AC" width="49%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=CornHaki&theme=tokyonight&hide_border=true&title_color=38B2AC&icon_color=38B2AC" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CornHaki&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38B2AC&icon_color=38B2AC" width="49%" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CornHaki&theme=tokyonight&hide_border=true&title_color=38B2AC&icon_color=38B2AC" width="49%" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CornHaki&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=38B2AC" width="49%" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=CornHaki&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&title_color=38B2AC" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CornHaki&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=38B2AC" width="49%" alt="Top Languages" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CornHaki&theme=tokyonight&hide_border=true&color=38B2AC&line=38B2AC&point=white" width="49%" alt="Activity Graph" />
 </div>
 
 <br>
