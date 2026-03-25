@@ -2,7 +2,7 @@
 
 # Hi there, I'm Dimpal Baishya 👋
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=CornHaki&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=CornHaki&color=38B2AC&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/CornHaki)
 
 **Full-Stack Developer | Physics Enthusiast | Problem Solver**
 
