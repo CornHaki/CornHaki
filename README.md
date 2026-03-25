@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="https://i.postimg.cc/7hcTfzz3/vite.jpg">
 # Hi there, I'm Dimpal Baishya 👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=CornHaki&color=38B2AC&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/CornHaki)
