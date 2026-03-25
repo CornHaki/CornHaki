@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.postimg.cc/7hcTfzz3/vite.jpg" alt="Logo" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; width: 150px;" />
+  <img src="[https://i.postimg.cc/7hcTfzz3/vite.jpg](https://i.postimg.cc/520Qwb1H/cropped-circle-image.png)" alt="Logo" style="border-radius: 50%; aspect-ratio: 1 / 1; object-fit: cover; width: 150px;" />
   
   <h1>Hi there, I'm Dimpal Baishya 👋</h1>
 
