@@ -82,15 +82,20 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CornHaki&theme=tokyonight" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CornHaki&theme=tokyonight&hide_border=true&title_color=38B2AC&icon_color=38B2AC" width="49%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CornHaki&theme=tokyonight" width="100%" alt="GitHub Profile Details" />
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CornHaki&theme=tokyonight" width="49%" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CornHaki&theme=tokyonight&hide_border=true&color=38B2AC&line=38B2AC&point=white" width="49%" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CornHaki&theme=tokyonight&hide_border=true&title_color=38B2AC&icon_color=38B2AC" width="49%" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CornHaki&theme=tokyonight&hide_border=true&color=38B2AC&line=38B2AC&point=white" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
