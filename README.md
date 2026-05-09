@@ -2,7 +2,7 @@
 
   <img src="https://i.postimg.cc/520Qwb1H/cropped-circle-image.png" alt="Logo" width="150" />
   
-  <h1>Hi there, I'm Dimpal Baishya 👋</h1>
+  <h1>Hi there, I'm Dimpal Baishya 👋</h1> 
   <a href="https://github.com/CornHaki">
     <img src="https://komarev.com/ghpvc/?username=CornHaki&color=38B2AC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
