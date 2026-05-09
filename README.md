@@ -10,9 +10,7 @@
   <br><br>
 
   **Full-Stack Developer | Physics Enthusiast | Problem Solver**
-
   I am a software engineer with a strong foundation in Physics, giving me a deeply analytical approach to solving complex coding challenges. I specialize in building highly scalable web applications, architecting robust backends, and crafting intuitive, seamless user interfaces.
-
   > *Fun fact: I can explain Quantum Mechanics, but centering a `div` still scares me sometimes.* ⚛️
 
 </div>
