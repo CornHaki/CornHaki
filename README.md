@@ -67,16 +67,13 @@
 ## 📂 Featured Projects
 
 * 🚛 **[Raimona Cargo](https://github.com/CornHaki/transport-frontend)** A modern, scalable frontend interface designed for logistics and transport management. Prioritizes seamless user experience, responsive design, and optimized state management.
-
-![Top Language](https://img.shields.io/github/languages/top/CornHaki/transport-frontend?style=flat-square&color=38B2AC) ![Last Commit](https://img.shields.io/github/last-commit/CornHaki/transport-frontend?style=flat-square&color=38B2AC)
+* ![Top Language](https://img.shields.io/github/languages/top/CornHaki/transport-frontend?style=flat-square&color=38B2AC) ![Last Commit](https://img.shields.io/github/last-commit/CornHaki/transport-frontend?style=flat-square&color=38B2AC)
   
 * 🧠 **[NeuroHack](https://github.com/CornHaki/NeuroHack)** An innovative hackathon project demonstrating rapid problem-solving, clean code architecture, and the integration of modern web technologies to tackle complex, real-world challenges.
-
-![Top Language](https://img.shields.io/github/languages/top/CornHaki/NeuroHack?style=flat-square&color=38B2AC) ![Last Commit](https://img.shields.io/github/last-commit/CornHaki/NeuroHack?style=flat-square&color=38B2AC)
+* ![Top Language](https://img.shields.io/github/languages/top/CornHaki/NeuroHack?style=flat-square&color=38B2AC) ![Last Commit](https://img.shields.io/github/last-commit/CornHaki/NeuroHack?style=flat-square&color=38B2AC)
 
 * 🛠️ **[Mono Motor Works](https://github.com/CornHaki/Mono-Motor-Works)** A comprehensive web application tailored for automotive services. Built to streamline business operations and enhance digital presence through a clean, intuitive UI.
-
-![Top Language](https://img.shields.io/github/languages/top/CornHaki/Mono-Motor-Works?style=flat-square&color=38B2AC) ![Last Commit](https://img.shields.io/github/last-commit/CornHaki/Mono-Motor-Works?style=flat-square&color=38B2AC)
+* ![Top Language](https://img.shields.io/github/languages/top/CornHaki/Mono-Motor-Works?style=flat-square&color=38B2AC) ![Last Commit](https://img.shields.io/github/last-commit/CornHaki/Mono-Motor-Works?style=flat-square&color=38B2AC)
 
 <br>
 
